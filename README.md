@@ -18,7 +18,7 @@ Download the above [**Backup-SqlDatabase.ps1**](https://github.com/whiteducksoft
 ### Publish the Runbook
 Select the previously created **Backup-SQLDatabase** runbook and click on *Edit* and then *Publish*:
 
-![Publish Runbook](https://github.com/whiteducksoftware/azure-backupsqldatabase/blob/master/resources/publishrunbook.png)
+![Publish Runbook](https://github.com/whiteducksoftware/azure-backupsqldatabase/blob/master/resources/publishrunbook.gif)
 
 ### Start the Runbook
 After you have published the runbook you can start it by clicking the *Start* button:
