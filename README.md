@@ -13,7 +13,7 @@ The following script will export an Azure SQL database to a [BACPAC](https://msd
 ### Add the Runbook
 Download the above [**Backup-SqlDatabase.ps1**](https://github.com/whiteducksoftware/azure-backupsqldatabase/blob/master/Backup-SqlDatabase.ps1) and import it by going to your Azure Automation Account -> Runbooks -> Add a Runbook -> Import an existing runbook:
 
-![Import Runbook](https://github.com/whiteducksoftware/azure-backupsqldatabase/blob/master/resources/importrunbook.png)
+![Import Runbook](https://github.com/whiteducksoftware/azure-backupsqldatabase/blob/master/resources/importrunbook.gif)
 
 ### Publish the Runbook
 Select the previously created **Backup-SQLDatabase** runbook and click on *Edit* and then *Publish*:
