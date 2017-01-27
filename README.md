@@ -2,7 +2,7 @@
 
 The current Automated Export for SQL database will **discontinue on March 1, 2017**. If you need to export your data you either have to setup a *Long-term retention backup* or use *Azure Automation*. This article provides a script and description for the latest.
 
-
+The following script will export an Azure SQL database to a BACPAC file stored in an Azure Blob storage.
 
 ## Prerequisites
 + Azure Automation account
